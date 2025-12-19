@@ -145,8 +145,6 @@ Wireshark · Nmap · Metasploit · Burp Suite
 ---
 
 ### 📊 GitHub Stats | إحصائيات
-*(Note: You can add dynamic stats later)*  
-*(ملاحظة: يمكنك إضافة إحصائيات ديناميكية لاحقًا)*
 
 ```markdown
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=dark)
